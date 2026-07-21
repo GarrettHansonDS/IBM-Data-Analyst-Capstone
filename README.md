@@ -19,7 +19,7 @@ This project cleans, analyzes, and visualizes results from the Stack Overflow De
 
 ## Process
 
-1. **Data cleaning** — resolved structural inconsistencies in the raw survey export not accounted for in the original course template (e.g. [briefly note the actual issue you hit, multi-select fields, schema changes between survey years, whatever it was])
+1. **Data cleaning** — resolved structural inconsistencies in the raw survey export not accounted for in the original course template (e.g. The IBM course uses a survey that is updated yearly. This year, the surveyer made it an option for you to choose multiple optins in several questions. The result is that certain columns had fields with lists. In order to analyze and make insights from this data I used python to explode and split the data and make it it's own column)
 2. **Exploratory analysis** — used Python to identify relationships between experience, technology stack, and compensation
 3. **Visualization** — built an interactive dashboard so results can be filtered and explored rather than read as static charts
 4. **Insights** — translated findings into practical takeaways around hiring, skills development, and workforce planning
