@@ -26,9 +26,10 @@ This project cleans, analyzes, and visualizes results from the Stack Overflow De
 
 ## Key Findings
 
-- [One-line finding, e.g. "Compensation growth was steepest in the first 5 years of experience, then flattened"]
-- [One-line finding]
-- [One-line finding]
+1. JavaScript currently leads developer language usage, but Python is the #1 most-desired language going forward, signaling a clear shift in demand
+2. PostgreSQL dominates both current and desired database preferences, reflecting its strength as a consolidated, AI-compatible data stack
+3. Compensation scales with both age and experience, but job satisfaction shows only a weak correlation with pay, experience matters more to satisfaction than salary does
+4. AWS holds a clear lead as the preferred cloud platform, both currently and for future adoption, ahead of Azure and Google Cloud
 
 ## Repository Contents
 
