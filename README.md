@@ -31,17 +31,4 @@ This project cleans, analyzes, and visualizes results from the Stack Overflow De
 3. Compensation scales with both age and experience, but job satisfaction shows only a weak correlation with pay, experience matters more to satisfaction than salary does
 4. AWS holds a clear lead as the preferred cloud platform, both currently and for future adoption, ahead of Azure and Google Cloud
 
-## Repository Contents
-
-- `notebooks/` — Python analysis and data cleaning
-- `sql/` — queries used for aggregation
-- `dashboard/` — Looker Studio export or screenshots
-- `data/` — [note if raw data is included, or link to the public source if it's too large for the repo]
-
-## Dashboard Preview
-
-[Insert a screenshot of the dashboard here, this matters more than people expect. A visual preview is often what actually gets someone to click through to the live version.]
-
----
-
 **Author:** Garrett Hanson · [LinkedIn](your-link) · IBM Data Analyst Professional Certificate, 2026
