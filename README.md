@@ -2,7 +2,7 @@
 
 Analysis of a 65,000-row developer survey dataset to uncover trends in compensation, technology adoption, and job satisfaction. Built as the capstone project for the IBM Data Analyst Professional Certificate.
 
-**[View the interactive dashboard →](your-looker-studio-link-here)**
+View the interactive dashboard: https://datastudio.google.com/s/rUfiNSdiJWk
 
 ## Overview
 
